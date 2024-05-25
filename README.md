@@ -17,7 +17,6 @@
 Jogo chamado “SOS Marine”, onde o personagem (peixe) enfrenta diversos obstáculos e aventuras até chegar na fase final. O jogo tem uma correlação com o Objetivo de Desenvolvimento Sustentável (ODS) - 14, abrangendo a vida no mar.
 <br><br>
 ## Links abaixo:
-<br><br>
 Link do drive para acesso ao jogo: <https://drive.google.com/file/d/1SK2mzORJKOkrJ6rhTSQfrkn501Ap0Y3K/view?usp=drive_link>
 
 Link da documentação: <https://docs.google.com/document/d/1q2NGfDU8GMdO8QMQnuQTH494f7Ie3UuK901QzLkZGLQ/edit?usp=sharing>
