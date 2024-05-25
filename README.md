@@ -79,8 +79,14 @@ Coloque código do prompt de comnando se for necessário
 Aqui estão as referências usadas no projeto.
 
 14 - ODS 14: Vida na Água. Disponível em: https://observavix.vitoria.es.gov.br/objetivo/14. Acesso em: 08 de mar. de 2024.
+
 ANDRADE, Léo. Estrutura de repetição while com C# - Aprenda a programar [EP20]. YouTube, 09 de ago. de 2021. Acesso em: 05 de abr. de 2024.
+
 BRACKEYS. How to make a health bar in Unity. YouTube, 09 de fev. de 2020. Acesso em: 23 de mar. de 2024.
+
 BRACKEYS. How to make a high score in Unity. YouTube, 29 de mar. de 2017. Acesso em: 13 de abr. de 2024.
+
 BRACKEYS. How to make a homing missile in Unity. YouTube, 15 de out. de 2017. Acesso em: 19 de abr. de 2024.
+
 BRACKEYS. How to make a video game in Unity - movement (E03). YouTube, 08 de fev. de 2007. Acesso em: 23 de mar. de 2024.
+
