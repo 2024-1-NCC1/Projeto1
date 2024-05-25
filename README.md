@@ -14,17 +14,14 @@
 
 ## Descrição
 
-<p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
-</p>
-
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+Jogo chamado “SOS Marine”, onde o personagem (peixe) enfrenta diversos obstáculos e aventuras até chegar na fase final. O jogo tem uma correlação com o Objetivo de Desenvolvimento Sustentável (ODS) - 14, abrangendo a vida no mar.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+## Links abaixo:
 <br><br>
-May the force be with you!
+Link do drive para acesso ao jogo: <https://drive.google.com/file/d/1SK2mzORJKOkrJ6rhTSQfrkn501Ap0Y3K/view?usp=drive_link>
+
+Link da documentação: <https://docs.google.com/document/d/1q2NGfDU8GMdO8QMQnuQTH494f7Ie3UuK901QzLkZGLQ/edit?usp=sharing>
+
 <br><br>
 
 ## 🛠 Estrutura de pastas
@@ -78,51 +75,13 @@ Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro progra
 Coloque código do prompt de comnando se for necessário
 ```
 
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
-
-## 💻 Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
-
-## 🗃 Histórico de lançamentos
-
-A cada atualização os detalhes devem ser lançados aqui.
-
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
-
-## 📋 Licença/License
-
-
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://creativecommons.org/share-your-work/>
-4. <https://freesound.org/>
-5. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+14 - ODS 14: Vida na Água. Disponível em: https://observavix.vitoria.es.gov.br/objetivo/14. Acesso em: 08 de mar. de 2024.
+ANDRADE, Léo. Estrutura de repetição while com C# - Aprenda a programar [EP20]. YouTube, 09 de ago. de 2021. Acesso em: 05 de abr. de 2024.
+BRACKEYS. How to make a health bar in Unity. YouTube, 09 de fev. de 2020. Acesso em: 23 de mar. de 2024.
+BRACKEYS. How to make a high score in Unity. YouTube, 29 de mar. de 2017. Acesso em: 13 de abr. de 2024.
+BRACKEYS. How to make a homing missile in Unity. YouTube, 15 de out. de 2017. Acesso em: 19 de abr. de 2024.
+BRACKEYS. How to make a video game in Unity - movement (E03). YouTube, 08 de fev. de 2007. Acesso em: 23 de mar. de 2024.
