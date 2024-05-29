@@ -12,6 +12,10 @@
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Fabiano Alves Onça</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gilles Pedroza Leite</a>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/2024-1-NCC1/Projeto1/main/sosmarineIMAGEM.png" alt="SOS MARINE" border="0">
+</p>
+
 ## Descrição
 
 Jogo chamado “SOS Marine”, onde o personagem (peixe) enfrenta diversos obstáculos e aventuras até chegar na fase final. O jogo tem uma correlação com o Objetivo de Desenvolvimento Sustentável (ODS) - 14, abrangendo a vida no mar.
