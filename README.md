@@ -74,6 +74,10 @@ Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro progra
 Coloque código do prompt de comnando se for necessário
 ```
 
+## 📋 Licença/License
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2024-1-NCC1/Projeto1">SOS MARINE</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/2024-1-NCC1/Projeto1">FECAP, Guilherme Reis Fogolin de Godoy, Lucas Moreira de Godoy, Pedro Henrique N Lemos, Yan Ramos Cezareto</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
